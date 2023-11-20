@@ -7,15 +7,15 @@ Key Python Concepts for practicing Data Structures and Algorithms
 ## Concepts
 | Concept | Code | Concepts | Code |
 |-----|-----|-----|-----|
-| 1 Variables | [***View***](./variables/) | 10 Queues | [***View***](./queues/) |
-| 2 If-Statements | [***View***](./if-statements/) | 11 Queues | [***View***](./queues/) |
-| 3 Loops | [***View***](./loops/) | 12 Hash maps | [***View***](./has-maps/) |
-| 4 Math | [***View***](./math/) | 13 Tuples | [***View***](./tuples/) |
-| 5 Arrays | [***View***](./arrays/) | 14 Heaps | [***View***](./heaps/) |
-| 6 Sorting | [***View***](./sorting/) | 15 Functions | [***View***](./functions/) |
-| 7 Lists | [***View***](./lists/) | 16 Nested functions | [***View***](./nested-functions/) |
-| 8 2d arrays | [***View***](./2d-arrays/) | 17 Classes | [***View***](./classes/) |
-| 9 Strings | [***View***](./strings/) |
+| 1 Variables | [***View***](./variables.md/) | 10 Queues | [***View***](./queues.md/) |
+| 2 If-Statements | [***View***](./if-statements.md/) | 11 Queues | [***View***](./queues.md/) |
+| 3 Loops | [***View***](./loops.md/) | 12 Hash maps | [***View***](./has-maps.md/) |
+| 4 Math | [***View***](./math.md/) | 13 Tuples | [***View***](./tuples.md/) |
+| 5 Arrays | [***View***](./arrays.md/) | 14 Heaps | [***View***](./heaps.md/) |
+| 6 Sorting | [***View***](./sorting.md/) | 15 Functions | [***View***](./functions.md/) |
+| 7 Lists | [***View***](./lists.md/) | 16 Nested functions | [***View***](./nested-functions.md/) |
+| 8 2d arrays | [***View***](./2d-arrays.md/) | 17 Classes | [***View***](./classes.md/) |
+| 9 Strings | [***View***](./strings.md/) |
 
 ### Getting started
 Python is a Dyamically typed language
