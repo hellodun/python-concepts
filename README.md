@@ -7,12 +7,12 @@ Key Python Concepts for practicing Data Structures and Algorithms
 ## Concepts
 | Concept | Code | Concepts | Code |
 |-----|-----|-----|-----|
-| Variables | [***View***](./variables/) | Queues | [***View***](./queues/) |
-| If-Statements | [***View***](./if-statements/) | Queues | [***View***](./queues/) |
-| Loops | [***View***](./loops/) | Hash maps | [***View***](./has-maps/) |
-| Math | [***View***](./math/) | Tuples | [***View***](./tuples/) |
-| Arrays | [***View***](./arrays/) | Heaps | [***View***](./heaps/) |
-| Sorting | [***View***](./sorting/) | Functions | [***View***](./functions/) |
-| Lists | [***View***](./lists/) | Nested functions | [***View***](./nested-functions/) |
-| 2d arrays | [***View***](./2d-arrays/) | Classes | [***View***](./classes/) |
-| Strings | [***View***](./strings/) |
+| 1 Variables | [***View***](./variables/) | 10 Queues | [***View***](./queues/) |
+| 2 If-Statements | [***View***](./if-statements/) | 11 Queues | [***View***](./queues/) |
+| 3 Loops | [***View***](./loops/) | 12 Hash maps | [***View***](./has-maps/) |
+| 4 Math | [***View***](./math/) | 13 Tuples | [***View***](./tuples/) |
+| 5 Arrays | [***View***](./arrays/) | 14 Heaps | [***View***](./heaps/) |
+| 6 Sorting | [***View***](./sorting/) | 15 Functions | [***View***](./functions/) |
+| 7 Lists | [***View***](./lists/) | 16 Nested functions | [***View***](./nested-functions/) |
+| 8 2d arrays | [***View***](./2d-arrays/) | 17 Classes | [***View***](./classes/) |
+| 9 Strings | [***View***](./strings/) |
