@@ -43,3 +43,12 @@ n++
 ```
 
 Python has a `NULL` type but it's called `None` instead
+
+```python
+number = 20
+
+# Later
+
+number = None
+```
+- Here, the `number` vatiable is assigned a value of 20, but is later changed to None, meaning it has no value.
