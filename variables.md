@@ -27,3 +27,19 @@ name, age = "Maya", 24
 ```
 
 ***NOTE:*** - Types are evaluated at run time and not during compile time
+
+### Value increments
+*Correct syntax*
+```python
+n = n + 1
+# or
+n += 1
+```
+
+*Not supported*
+The following is not valid syntax in Python
+```python
+n++
+```
+
+Python has a `NULL` type but it's called `None` instead
