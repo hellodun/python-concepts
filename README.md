@@ -5,8 +5,8 @@ Key Python Concepts for practicing Data Structures and Algorithms
 ### This repo contains brief explanations and code snippets for python data structures
 
 ## Concepts
-| Concept | Code |
-|-----|-----|
+| Concept | Code || Concept | Code |
+|-----|-----||-----|-----|
 | Variables | [***View***](./variables/) |
 | If-Statements | [***View***](./if-statements/) |
 | Loops | [***View***](./loops/) |
@@ -24,11 +24,3 @@ Key Python Concepts for practicing Data Structures and Algorithms
 | Functions | [***View***](./functions/) |
 | Nested functions | [***View***](./nested-functions/) |
 | Classes | [***View***](./classes/) |
-
-
-
-
-| Task1 | Task2 | | Task3 | Task4 |
-|----|----| |----|----|
-| Do1 | Do2 | | Do3 | Do4 |
-| Do1 | Do2 | | Do3 | Do4 |
