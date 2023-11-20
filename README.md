@@ -1,4 +1,4 @@
-# Python refresher course
+# Python refresher
 
 Key Python Concepts for practicing Data Structures and Algorithms
 
