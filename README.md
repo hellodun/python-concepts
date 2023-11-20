@@ -16,3 +16,8 @@ Key Python Concepts for practicing Data Structures and Algorithms
 | 7 Lists | [***View***](./lists/) | 16 Nested functions | [***View***](./nested-functions/) |
 | 8 2d arrays | [***View***](./2d-arrays/) | 17 Classes | [***View***](./classes/) |
 | 9 Strings | [***View***](./strings/) |
+
+### Getting started
+Python is a Dyamically typed language
+
+It's types are determined at run time and not compute time
