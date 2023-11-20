@@ -5,22 +5,14 @@ Key Python Concepts for practicing Data Structures and Algorithms
 ### This repo contains brief explanations and code snippets for python data structures
 
 ## Concepts
-| Concept | Code || Concept | Code |
-|-----|-----||-----|-----|
-| Variables | [***View***](./variables/) |
-| If-Statements | [***View***](./if-statements/) |
-| Loops | [***View***](./loops/) |
-| Math | [***View***](./math/) |
-| Arrays | [***View***](./arrays/) |
-| Sorting | [***View***](./sorting/) |
-| Lists | [***View***](./lists/) |
-| 2d arrays | [***View***](./2d-arrays/) |
+| Concept | Code | Concepts | Code |
+|-----|-----|-----|-----|
+| Variables | [***View***](./variables/) | Queues | [***View***](./queues/) |
+| If-Statements | [***View***](./if-statements/) | Queues | [***View***](./queues/) |
+| Loops | [***View***](./loops/) | Hash maps | [***View***](./has-maps/) |
+| Math | [***View***](./math/) | Tuples | [***View***](./tuples/) |
+| Arrays | [***View***](./arrays/) | Heaps | [***View***](./heaps/) |
+| Sorting | [***View***](./sorting/) | Functions | [***View***](./functions/) |
+| Lists | [***View***](./lists/) | Nested functions | [***View***](./nested-functions/) |
+| 2d arrays | [***View***](./2d-arrays/) | Classes | [***View***](./classes/) |
 | Strings | [***View***](./strings/) |
-| Queues | [***View***](./queues/) |
-| Hash sets | [***View***](./hash-maps/) |
-| Hash maps | [***View***](./has-maps/) |
-| Tuples | [***View***](./tuples/) |
-| Heaps | [***View***](./heaps/) |
-| Functions | [***View***](./functions/) |
-| Nested functions | [***View***](./nested-functions/) |
-| Classes | [***View***](./classes/) |
