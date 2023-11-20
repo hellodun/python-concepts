@@ -25,7 +25,10 @@ Key Python Concepts for practicing Data Structures and Algorithms
 | Nested functions | [***View***](./nested-functions/) |
 | Classes | [***View***](./classes/) |
 
-| Task1 | Task2 | Task3 | Task4 |
-|----|----|----|----|
-| Do1 | Do2 | Do3 | Do4 |
-| Do1 | Do2 | Do3 | Do4 |
+
+
+
+| Task1 | Task2 | | Task3 | Task4 |
+|----|----| |----|----|
+| Do1 | Do2 | | Do3 | Do4 |
+| Do1 | Do2 | | Do3 | Do4 |
