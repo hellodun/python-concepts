@@ -18,6 +18,12 @@ Key Python Concepts for practicing Data Structures and Algorithms
 | 9 Strings | [***View***](./strings.md/) |
 
 ### Getting started
+
+**Requirements**
+- Install Python 3
+
+***Understanding Python***
+
 Python is a Dyamically typed language
 
 It's types are determined at run time and not compute time
